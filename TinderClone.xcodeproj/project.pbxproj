@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		5FA50EF129AF7EE2006A5825 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FA50EF029AF7EE2006A5825 /* AppDelegate.swift */; };
 		5FA50EF329AF7EE2006A5825 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FA50EF229AF7EE2006A5825 /* SceneDelegate.swift */; };
-		5FA50EF529AF7EE2006A5825 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FA50EF429AF7EE2006A5825 /* ViewController.swift */; };
+		5FA50EF529AF7EE2006A5825 /* LoginViewContrloller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FA50EF429AF7EE2006A5825 /* LoginViewContrloller.swift */; };
 		5FA50EFA29AF7EE3006A5825 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FA50EF929AF7EE3006A5825 /* Assets.xcassets */; };
 		5FA50EFD29AF7EE3006A5825 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FA50EFB29AF7EE3006A5825 /* LaunchScreen.storyboard */; };
 		5FA50F0629AF81AE006A5825 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 5FA50F0529AF81AE006A5825 /* SnapKit */; };
@@ -19,7 +19,7 @@
 		5FA50EED29AF7EE2006A5825 /* TinderClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TinderClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FA50EF029AF7EE2006A5825 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5FA50EF229AF7EE2006A5825 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		5FA50EF429AF7EE2006A5825 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5FA50EF429AF7EE2006A5825 /* LoginViewContrloller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewContrloller.swift; sourceTree = "<group>"; };
 		5FA50EF929AF7EE3006A5825 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5FA50EFC29AF7EE3006A5825 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5FA50EFE29AF7EE3006A5825 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			children = (
 				5FA50EF029AF7EE2006A5825 /* AppDelegate.swift */,
 				5FA50EF229AF7EE2006A5825 /* SceneDelegate.swift */,
-				5FA50EF429AF7EE2006A5825 /* ViewController.swift */,
+				5FA50EF429AF7EE2006A5825 /* LoginViewContrloller.swift */,
 				5FA50EF929AF7EE3006A5825 /* Assets.xcassets */,
 				5FA50EFB29AF7EE3006A5825 /* LaunchScreen.storyboard */,
 				5FA50EFE29AF7EE3006A5825 /* Info.plist */,
@@ -142,7 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5FA50EF529AF7EE2006A5825 /* ViewController.swift in Sources */,
+				5FA50EF529AF7EE2006A5825 /* LoginViewContrloller.swift in Sources */,
 				5FA50EF129AF7EE2006A5825 /* AppDelegate.swift in Sources */,
 				5FA50EF329AF7EE2006A5825 /* SceneDelegate.swift in Sources */,
 			);
